@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/cardMatchingGame/static/css/main.627f964f.css",
+    "main.js": "/cardMatchingGame/static/js/main.082b8272.js",
+    "static/media/img-8.png": "/cardMatchingGame/static/media/img-8.82dc9aaf3257d1db493f.png",
+    "static/media/img-7.png": "/cardMatchingGame/static/media/img-7.c2ee1c0fd9b9c74a0461.png",
+    "static/media/img-2.png": "/cardMatchingGame/static/media/img-2.ef0a7006fcf25bb859cf.png",
+    "static/media/img-4.png": "/cardMatchingGame/static/media/img-4.65157c0c7400d63e676f.png",
+    "static/media/img-5.png": "/cardMatchingGame/static/media/img-5.7c009d95170f356b7f07.png",
+    "static/media/img-3.png": "/cardMatchingGame/static/media/img-3.915556c4557c4c7e22ef.png",
+    "static/media/img-1.png": "/cardMatchingGame/static/media/img-1.f26bbb53ac09fb0a5364.png",
+    "index.html": "/cardMatchingGame/index.html",
+    "main.627f964f.css.map": "/cardMatchingGame/static/css/main.627f964f.css.map",
+    "main.082b8272.js.map": "/cardMatchingGame/static/js/main.082b8272.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.627f964f.css",
+    "static/js/main.082b8272.js"
+  ]
+}
